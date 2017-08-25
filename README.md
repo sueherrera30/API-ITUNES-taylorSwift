@@ -73,3 +73,8 @@ Development plan:
 8.- Hosting page.
 
     20 -25 min aprox.  
+
+aswering question:
+ is there anything else that is needed before this can be deployed to production?
+ yes, at first, I should develop some funcionality on the "other charts" section, maybe taking you to that real playlist(similar to this one).
+ make the page available to mobile version.
